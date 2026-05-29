@@ -23,7 +23,7 @@ adarsh = {
     "role"      : "AI/ML Engineer (B.Tech CSE @ MIT-ADT University, Pune)",
     "focus"     : ["Machine Learning", "Deep Learning", "NLP", "Edge AI / TinyML"],
     "currently" : "Building intelligent systems that work in the real world",
-    "year"      : "3rd Year | Batch of 2027",
+    "year"      : "4th Year | Batch of 2027",
 }
 ```
 
